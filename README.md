@@ -30,7 +30,8 @@ I graduated with a degree in Software Engineering in September 2022 and successf
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white)
+![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=flat&logo=redhat&logoColor=white)
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=AndrewEmad14&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
